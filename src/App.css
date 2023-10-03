@@ -12,6 +12,7 @@
   background-color: #d6e2f1;
 }
 .NavBar h3{
+  font-weight: 600;
   font-size: 25px;
 }
 .NavBar-Body{
@@ -21,14 +22,17 @@
   justify-content: space-evenly;
 }
 .Navbar-Filter{
-  width: 50%;
+  width: 37%;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+}
+.Navbar-Filter h4{
+  font-weight: 500;
+  margin-left: 20px;
 }
 .NavBar-Body input{
   border: none;
-  /* border-radius: 10px; */
+  font-size: 18px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 
@@ -39,6 +43,8 @@ input:focus{
   outline: none;
 }
 .NavBar-Body button{
+  cursor: pointer;
+  font-size: 18px;
   padding: 5px 10px 5px 10px ;
   background-color: white;
   border-top-right-radius: 10px;
@@ -49,7 +55,7 @@ input:focus{
 
 .Cards-Container{
   background-color: #ecf1f6;
-  /* margin: 50px 10px 50px 10px; */
+  min-height: 92vh;
   padding: 50px 0px 20px 0px ;
   display: grid;
   grid-template-columns: auto  auto  auto;
@@ -74,7 +80,7 @@ input:focus{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2px 20px 2px 20px ;
+  padding: 2px 10px 2px 20px ;
 }
 .Cars-name h3{
   font-weight: 600;
@@ -99,15 +105,16 @@ input:focus{
 }
 .Cars-feature div h6{
   width: 50%;
+  font-size: 13px;
  /* margin-left: 10px; */
- color: #5ca5da;
+ color: #52b7ff;
 
 }
 .Cars-feature div span{
   color: rgb(110, 108, 108);
   font-weight: 600;
   margin-left:2px ;
- font-size: 12px;
+  font-size: 13px;
 }
 
 .Cars-details{
@@ -144,7 +151,7 @@ input:focus{
 }
 .Cars-btns button{
   cursor: pointer;
-  background-color: #5ca5da;
+  background-color: #0095ff;
   color: white;
   padding: 4px;
   border: none;
@@ -162,12 +169,15 @@ input:focus{
 }
 .page-btn{
   margin: 2px 5px 2px 5px;
- font-size: 15px;
-  padding: 5px;
-
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 10px;
+}
+.page-btn:hover{
+  background-color: #cde2f0;
 }
 .active-btn{
-  background-color: aqua;
+  background-color: rgb(178, 184, 184);
 }
 
 .Not-found{
@@ -178,3 +188,4 @@ input:focus{
   font-weight: 600;
   color: rgb(90, 90, 90);
 }
+

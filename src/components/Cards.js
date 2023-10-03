@@ -31,18 +31,18 @@ const Cards = ({product}) => {
           </h6>
           <h6>
             <FontAwesomeIcon icon={faGasPump} />
-           <span> Hybrid </span>
+           <span> {product.fuel}</span>
           </h6>
         </div>
 
         <div>
           <h6>
             <FontAwesomeIcon icon={faGauge} />
-           <span> 6.3km/1- liter</span> 
+           <span> {(Math.random() * 10 +4).toFixed(1)}km/1- liter</span> 
           </h6>
           <h6>
             <FontAwesomeIcon icon={faGear} />
-            <span> Automatic</span>
+            <span> {product.type}</span>
            
           </h6>
         </div>

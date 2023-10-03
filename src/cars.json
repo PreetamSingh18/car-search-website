@@ -5,6 +5,8 @@
         "title": "Mazda MX-5",
         "model": 1989,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Sports car Roadster"
     },
     {
@@ -13,6 +15,8 @@
         "title": "Volkswagen Kübelwagen",
         "model":2001,
         "price": "9,090",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Military vehicle"
     },
     {
@@ -21,6 +25,8 @@
         "title": "Porsche Cayenne",
         "model": 2002,
         "price": "13,090",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Mid-size luxury crossover SUV"
     },
     {
@@ -29,6 +35,8 @@
         "title": "Vauxhall Chevette",
         "model": 1975,
         "price": "11,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Supermini"
     },
     {
@@ -37,6 +45,8 @@
         "title": "Dymaxion car",
         "model": 1933,
         "price": "10,045",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Concept car"
     },
     {
@@ -45,6 +55,8 @@
         "title": "Ford Crown Victoria",
         "model": 1955,
         "price": "11,900",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Full-size Ford"
     },
     {
@@ -53,6 +65,8 @@
         "title": "Plymouth Superbird",
         "model": 1970,
         "price": "7,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Muscle car(today) and Race car(Past)"
     },
     {
@@ -61,6 +75,8 @@
         "title": "Saab 9000",
         "model": 1984,
         "price": "15,000",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Executive car"
     },
     {
@@ -69,6 +85,8 @@
         "title": "Pontiac Sunfire",
         "model": 1994,
         "price": "19,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Compact"
     },
     {
@@ -77,6 +95,8 @@
         "title": "AMC Javelin",
         "model": 1967,
         "price": "8,900",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "{{Unbulleted list| Pony car | Muscle car },},"
     },
     {
@@ -85,6 +105,8 @@
         "title": "Jaguar X-Type",
         "model": 2001,
         "price": "20,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Compact executive car"
     },
     {
@@ -93,6 +115,8 @@
         "title": "Volkswagen Phaeton",
         "model": 2002,
         "price": "16,900",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Full-size luxury car"
     },
     {
@@ -101,6 +125,8 @@
         "title": "Pontiac G6",
         "model": 2004,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Midsize"
     },
     {
@@ -109,6 +135,8 @@
         "title": "Ford Five Hundred",
         "model": 2004,
         "price": "14,120",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Full-size"
     },
     {
@@ -117,6 +145,8 @@
         "title": "Pontiac Solstice",
         "model": 2005,
         "price": "15,541",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Roadster, coupe"
     },
     {
@@ -125,6 +155,8 @@
         "title": "Fiat Tipo",
         "model": 1988,
         "price": "10,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Small family car"
     },
     {
@@ -133,6 +165,8 @@
         "title": "Plymouth Reliant",
         "model": 1981,
         "price": "12,750",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Mid-size"
     },
     {
@@ -141,6 +175,8 @@
         "title": "Chevrolet Chevette",
         "model": 1975,
         "price": "8,911",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Subcompact"
     },
     {
@@ -149,6 +185,8 @@
         "title": "SEAT León",
         "model":1999,
         "price": "10,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Small family car"
     },
     {
@@ -157,6 +195,8 @@
         "title": "Chevrolet Corsica",
         "model": 1987,
         "price": "7,430",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Compact car"
     },
     {
@@ -165,6 +205,8 @@
         "title": "Mazda MX-3",
         "model": 1991,
         "price": "13,176",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Sport compact"
     },
     {
@@ -173,6 +215,8 @@
         "title": "TVR Tuscan Speed Six",
         "model": 1999,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Sports car"
     },
     {
@@ -181,6 +225,8 @@
         "title": "Aston Martin DB9",
         "model": 2004,
         "price": "7,430",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Grand tourer"
     },
     {
@@ -189,6 +235,8 @@
         "title": "Pontiac Catalina",
         "model": 1950,
         "price": "15,205",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Full-size"
     },
     {
@@ -197,6 +245,8 @@
         "title": "Oldsmobile Toronado",
         "model": 1965,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Full-size personal luxury car"
     },
     {
@@ -205,6 +255,8 @@
         "title": "Chrysler Cirrus",
         "model": 1994,
         "price": "10,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Mid-size"
     },
     {
@@ -213,6 +265,8 @@
         "title": "Volkswagen Corrado",
         "model": 2022,
         "price": "30,369",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Sport compact"
     },
     {
@@ -221,6 +275,8 @@
         "title": "Mercedes-Benz R-Class",
         "model" :2009,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Full-size CUV / Large MPV"
     },
     {
@@ -229,6 +285,8 @@
         "title": "Volvo V50",
         "model": 2004,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Compact / Small family car"
     },
     {
@@ -237,6 +295,8 @@
         "title": "Audi TT",
         "model":2005,
         "price": "20,265",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Sport compact Sports car"
     },
     {
@@ -245,6 +305,8 @@
         "title": "Volkswagen Touareg",
         "model": 2002,
         "price": "23,991",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Mid-size luxury crossover SUV"
     },
     {
@@ -253,6 +315,8 @@
         "title": "Mitsubishi GTO",
         "model": 1990,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Sports car, grand tourer"
     },
     {
@@ -261,6 +325,8 @@
         "title": "Cadillac Cimarron",
         "model": 1981,
         "price": "8,313",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Compact"
     },
     {
@@ -269,6 +335,8 @@
         "title": "Dodge Daytona",
         "model": 1984,
         "price": "10,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Compact"
     },
     {
@@ -277,6 +345,8 @@
         "title": "Cadillac Allanté",
         "model": 1986,
         "price": "17,314",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Luxury roadster"
     },
     {
@@ -285,6 +355,8 @@
         "title": "Toyota Avensis",
         "model": 1997,
         "price": "8,575 ",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Large family car"
     },
     {
@@ -293,6 +365,8 @@
         "title": "Mercedes-Benz 300 SL",
         "model": 1952,
         "price": "17,314",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Sports car, GT"
     },
     {
@@ -301,6 +375,8 @@
         "title": "Audi 80",
         "model": 1997,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Compact executive car"
     },
     {
@@ -309,6 +385,8 @@
         "title": "Audi A2",
         "model": 1999,
         "price": "10,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Supermini"
     },
     {
@@ -317,6 +395,8 @@
         "title": "Oldsmobile Intrigue",
         "model":2001,
         "price": "7,161",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Mid-size car"
     },
     {
@@ -325,6 +405,8 @@
         "title": "Dodge Spirit",
         "model": 1989,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Mid-size"
     },
     {
@@ -333,6 +415,8 @@
         "title": "Pontiac 6000",
         "model": 1982,
         "price": "21,177",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Mid-size"
     },
     {
@@ -341,6 +425,8 @@
         "title": "Dodge Shadow",
         "model": 1986,
         "price": "15,517",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Compact"
     },
     {
@@ -349,6 +435,8 @@
         "title": "Oldsmobile Alero",
         "model": 1998,
         "price": "13,996",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Compact car"
     },
     {
@@ -357,6 +445,8 @@
         "title": "Chrysler Crossfire",
         "model": 2003,
         "price": "17,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Sports car"
     },
     {
@@ -365,6 +455,8 @@
         "title": "AMC AMX",
         "model": 1968,
         "price": "10,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Grand tourer, Muscle car, Sports car"
     },
     {
@@ -373,6 +465,8 @@
         "title": "Dodge Dynasty",
         "model": 1988,
         "price": "7,300",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Mid-size"
     },
     {
@@ -381,6 +475,8 @@
         "title": "Audi A5",
         "model": 2007,
         "price": "25,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Compact executive car"
     },
     {
@@ -389,6 +485,8 @@
         "title": "Audi A4",
         "model":2008,
         "price": "22,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Compact executive car"
     },
     {
@@ -397,6 +495,8 @@
         "title": "Cadillac V-16",
         "model": 1930,
         "price": "12,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Luxury car"
     },
     {
@@ -405,6 +505,8 @@
         "title": "Pontiac Fiero",
         "model": 1983,
         "price": "9,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Sports car"
     },
     {
@@ -413,6 +515,8 @@
         "title": "Nissan 240SX",
         "model": 1989,
         "price": "13,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Sport compact"
     },
     {
@@ -421,6 +525,8 @@
         "title": "Chrysler 300",
         "model": 2003,
         "price": "11,080",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Full-size luxury car"
     },
     {
@@ -429,6 +535,8 @@
         "title": "Volvo C30",
         "model": 2006,
         "price": "15,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Premium compact car"
     },
     {
@@ -437,6 +545,8 @@
         "title": "Plymouth Duster",
         "model": 1969,
         "price": "10,000",
+        "type": "Automatic",
+        "fuel":"Hybrid",
         "class": "Compact car"
     },
     {
@@ -445,6 +555,8 @@
         "title": "Mazda Millenia",
         "model": 1992,
         "price": "9,000",
+        "type": "Manual",
+        "fuel":"Gasoline",
         "class": "Executive car"
     },
     {
@@ -453,6 +565,8 @@
         "title": "Fiat Tempra",
         "model": 1990,
         "price": "4,900",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Family car"
     },
     {
@@ -461,6 +575,8 @@
         "title": "Opel Calibra",
         "model": 1989,
         "price": "11,023",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Coupé"
     },
     {
@@ -469,6 +585,8 @@
         "title": "Peugeot 307",
         "model": 2001,
         "price": "10,054",
+        "type": "Automatic",
+        "fuel":"Gasoline",
         "class": "Small family car"
     },
     {
@@ -477,6 +595,8 @@
         "title": "Peugeot 407",
         "model": 2004,
         "price": "13,000",
+        "type": "Manual",
+        "fuel":"Hybrid",
         "class": "Large family car"
     }
 ]

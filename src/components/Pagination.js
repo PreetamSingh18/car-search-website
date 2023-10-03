@@ -15,7 +15,7 @@ const Pagination = ({ totalPages, currentPage, setCurrentPage }) => {
     pages.push(-2);
   }
   return (
-    <div>
+    <div className="pagination-container">
       {pages.map((page, ind) => {
         return (
         

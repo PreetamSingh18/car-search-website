@@ -1,4 +1,4 @@
-import { faSearch } from "@fortawesome/free-solid-svg-icons";
+import { faAngleDown, faArrowDown, faSearch } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { useState } from "react";
 
@@ -21,8 +21,8 @@ const Navbar = ({setInputSearch}) => {
             <button onClick={handleSearch} ><FontAwesomeIcon icon={faSearch}/> </button>
           </div>
           <div className="Navbar-Filter">
-            <h4>Relevence </h4>
-            <h4>All Brands</h4>
+            <h4>Relevence <FontAwesomeIcon icon={faAngleDown} /></h4>
+            <h4>All Brands <FontAwesomeIcon icon={faAngleDown} /></h4>
           </div>
         </div>
         <h3>Car Searching Website</h3>
