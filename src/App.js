@@ -1,25 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react'
+import "./App.css";
+import Navbar from './components/Navbar'
+import CarsData from "./cars.json";
+import Products from './components/Products';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
-function App() {
+const App = () => {
+  const [inputSearch,setInputSearch]=useState("");
+  const [data,setData]=useState([]);
+  // useEffect(()=>{
+  //   setData(CarsData);
+  // },[])
+ 
+  useEffect(()=>{
+   setData(CarsData.filter((car)=>{
+       return (
+         car.title.toLowerCase().includes(inputSearch)
+       )
+   }))
+
+  },[inputSearch])
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <Navbar setInputSearch={setInputSearch}/>
+    {/* <Products data={data}/> */}
+    <BrowserRouter>
+      <Routes>
+      <Route index element={<Products data={data}/>}/>
+        <Route path='/page/:pageId' element={<Products data={data}/>}/>
+      </Routes>
+    </BrowserRouter>
+    
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
